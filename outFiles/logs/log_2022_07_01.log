@@ -1,0 +1,509 @@
+20220701 10:56:55 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:56:55 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:56:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:56:56 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:56:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 10:56:56 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 10:57:29 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:57:29 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:57:30 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:57:41 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:57:41 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:57:41 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:57:41 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:57:41 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 10:57:41 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 10:58:50 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 10:58:50 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_10_58_50
+20220701 10:58:50 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 10:58:50 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:58:51 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:58:51 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "0"" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:58:51 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:58:51 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 10:58:51 - MainProcess | MainThread | log_config.error:57 - ERROR -Response body msg != expected_msg, expected_msg is {"code":1,"msg":"Incorrect user name","data":null}, body_msg is {'code': 1, 'msg': 'Incorrect user name', 'data': None}
+20220701 10:58:51 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 10:58:51 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 10:58:52 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 10:58:59 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_10_58_50.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_10_58_50
+20220701 10:58:59 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 10:59:56 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 10:59:56 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_10_59_56
+20220701 10:59:56 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 10:59:56 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:59:56 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:59:56 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 10:59:56 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:56 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "0"" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:56 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:56 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:56 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:57 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:57 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:57 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:57 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:57 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:57 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:57 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:57 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:57 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 10:59:57 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 10:59:57 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 10:59:57 - MainProcess | MainThread | log_config.error:57 - ERROR -Response body msg != expected_msg, expected_msg is {"code":1,"msg":"Incorrect user name","data":null}, body_msg is {'code': 1, 'msg': 'Incorrect user name', 'data': None}
+20220701 10:59:57 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 10:59:57 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 10:59:57 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:00:04 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_10_59_56.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_10_59_56
+20220701 11:00:04 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:00:04 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:00:04 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:01:18 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:01:18 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_01_18
+20220701 11:01:18 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:01:19 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:01:19 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:01:19 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:01:19 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:19 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:19 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "0"" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:19 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:19 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:19 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:20 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:20 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:20 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:20 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:20 - MainProcess | MainThread | test_auth_login.test_001_login:32 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": "1" , body_msg is {"code": 1, "msg": "\u7528\u6237\u672a\u767b\u5f55", "data": null}
+20220701 11:01:20 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:01:20 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:01:20 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:01:20 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:01:20 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:01:20 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:01:27 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_01_18.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_01_18
+20220701 11:01:27 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:01:27 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:01:27 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:01:27 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:03:41 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:03:41 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_03_41
+20220701 11:03:41 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:03:41 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:03:41 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:03:41 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:03:41 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:03:41 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:03:41 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:03:41 - MainProcess | MainThread | log_config.error:57 - ERROR -Response body msg != expected_msg, expected_msg is {"code":1,"msg":"Incorrect user name","data":None}, body_msg is {'code': 1, 'msg': 'Incorrect user name', 'data': None}
+20220701 11:03:42 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:03:42 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:03:42 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:03:48 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_03_41.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_03_41
+20220701 11:03:48 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:03:49 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:03:49 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:04:49 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:04:49 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_04_49
+20220701 11:04:49 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:04:50 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:04:50 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:04:50 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:04:50 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:04:50 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:04:50 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:04:50 - MainProcess | MainThread | log_config.error:57 - ERROR -Response body msg != expected_msg, expected_msg is {"code":1,"msg":"Incorrect user name","data":None}, body_msg is {'code': 1, 'msg': 'Incorrect user name', 'data': None}
+20220701 11:04:50 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:04:50 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:04:50 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:04:57 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_04_49.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_04_49
+20220701 11:04:57 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:04:58 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:04:58 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:04:58 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:05:25 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:05:25 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_05_25
+20220701 11:05:25 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:05:26 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:05:26 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:05:26 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:05:26 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:05:26 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:05:26 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:05:26 - MainProcess | MainThread | log_config.error:57 - ERROR -Response body msg != expected_msg, expected_msg is {"code":1,"msg":"Incorrect user name","data":None}, body_msg is {'code': 1, 'msg': 'Incorrect user name', 'data': None}
+20220701 11:05:26 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:05:26 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:05:26 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:05:33 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_05_25.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_05_25
+20220701 11:05:33 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:05:33 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:05:33 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:05:33 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:10:26 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:10:26 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:10:27 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:10:27 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:10:27 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:10:27 - MainProcess | MainThread | log_config.error:57 - ERROR -Response body msg != expected_msg, expected_msg is {"code":1,"msg":"Incorrect user name","data":None}, body_msg is {'code': 1, 'msg': 'Incorrect user name', 'data': None}
+20220701 11:11:21 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:11:21 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:11:21 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:11:21 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:11:21 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:11:21 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:13:36 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:13:37 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:13:37 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:13:37 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:13:37 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:13:37 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:13:37 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:13:37 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:14:11 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:14:11 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:14:11 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:14:11 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:14:11 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:14:11 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:14:11 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:14:11 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:14:56 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:14:56 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:14:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:14:56 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:14:56 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:14:56 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:14:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:14:56 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:15:22 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:15:22 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:15:22 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:15:22 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:15:22 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:15:22 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:15:22 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:15:22 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:15:55 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:15:55 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:15:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:15:56 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:15:56 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:15:56 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:15:56 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:15:56 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:17:49 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:17:49 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:17:50 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:17:50 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:17:50 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:17:50 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:17:50 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:17:50 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:19:03 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:19:03 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:19:03 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:19:55 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:19:55 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:19:55 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:19:55 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:19:55 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:19:55 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:19:55 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:19:55 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:29:19 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:29:19 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:29:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:29:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:29:20 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:29:20 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:29:20 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:29:20 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:29:25 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:29:25 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:29:38 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:29:43 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:29:57 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:30:06 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:30:37 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:30:43 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:32:29 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:32:29 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:32:41 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:32:45 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:32:49 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:32:56 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:33:10 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:33:18 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:34:01 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:34:01 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:34:02 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:34:02 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:34:02 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:34:02 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:34:02 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:34:02 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:35:29 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:35:29 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:35:29 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:35:29 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:35:29 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:35:29 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:35:29 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:35:29 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:38:18 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:38:18 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_38_18
+20220701 11:38:18 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:38:18 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:38:18 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:38:19 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:38:19 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:38:19 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:38:19 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:38:19 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:38:19 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:38:19 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:38:19 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:38:19 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:38:19 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:38:26 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_38_18.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_38_18
+20220701 11:38:26 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:38:26 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:38:26 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:38:26 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:40:54 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:40:54 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_40_54
+20220701 11:40:54 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:40:54 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:40:54 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:40:55 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:40:55 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:40:55 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:40:55 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:40:55 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:40:55 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:40:55 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:40:55 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:40:55 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:40:55 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:41:01 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_40_54.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_40_54
+20220701 11:41:01 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:41:01 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:41:01 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:41:02 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:43:08 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:43:08 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_43_08
+20220701 11:43:08 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:43:09 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:43:09 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:43:09 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:43:09 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:43:09 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:43:09 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:43:09 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:43:09 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:43:09 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:43:09 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:43:09 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:43:09 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:43:16 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_43_08.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_43_08
+20220701 11:43:16 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:43:16 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:43:16 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:43:16 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:44:00 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:44:00 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_44_00
+20220701 11:44:00 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:44:00 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:44:00 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:44:00 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:44:01 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:44:01 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:44:01 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:44:01 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:44:01 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:44:01 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:44:01 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:44:01 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:44:01 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:44:07 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_44_00.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_44_00
+20220701 11:44:07 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:44:08 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:45:05 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:45:05 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_45_05
+20220701 11:45:05 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:45:06 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:45:06 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:45:06 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:45:06 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:45:06 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:45:06 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:45:06 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [False, False, True] 
+20220701 11:45:06 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:45:06 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:45:06 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:45:06 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True] 
+20220701 11:45:06 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:45:06 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:45:06 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:45:12 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_45_05.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_45_05
+20220701 11:45:12 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:45:12 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:45:12 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:45:12 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:46:11 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 11:46:11 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_11_46_11
+20220701 11:46:11 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 11:46:12 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:46:12 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 11:46:12 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:46:12 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 11:46:12 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "userNo": "00003" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:46:12 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "username": "admin" , body_msg is {"code": 1, "msg": "\u60a8\u7684\u8d26\u53f7\u5df2\u88ab\u9501\u5b9a", "data": null}
+20220701 11:46:12 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [False, False, True] 
+20220701 11:46:12 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 11:46:12 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 11:46:12 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 11:46:12 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True] 
+20220701 11:46:12 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 11:46:12 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 11:46:12 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 11:46:29 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_11_46_11.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_11_46_11
+20220701 11:46:29 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 11:46:29 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:46:29 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 11:46:29 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 13:34:45 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:35:28 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:35:51 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:37:16 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:37:16 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 13:37:16 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 13:37:16 - MainProcess | MainThread | log_config.error:57 - ERROR -expected_msg not in body!, expected_msg is "code": 1 , body_msg is {"code": 0, "msg": "\u6210\u529f", "data": {"userNo": "00003", "username": "admin", "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRtaW4iLCJwYXNzd29yZCI6IjEyMzQ1NiIsImNyZWF0ZVRpbWUiOjE2NTY2NDM1NDA5NTgsImlhdCI6MTY1NjY0MzU0MH0.KzKMxHFWjvBtTZFggICaKILl5PdHa62AAwec8TUgMd4", "roles": {"nextChannelId": true, "queryStr": true, "addStr": true, "updateStr": true, "listMehodGroup": true, "fontList": true, "setProjectPolicy": true, "queryProjectPolicy": true, "setElecSignPolicy": true, "queryElecSignPolicy": true, "setAuditTracking": true, "queryAuditTrack": true, "setAuditTrackPolicy": true, "queryAuditTrackPolicy": true, "setDefaultAnnotation": true, "queryDefaultAnnotation": true, "updateDefaultAnnotation": true, "deleteDefaultAnnotation": true, "updateUserNoPrefix": true, "getUserNoPrefix": true, "addUsers": true, "updateUsers": true, "deleteUsers": true, "queryUsers": true, "enableUser": true, "profiles": true, "updatePass": true, "importsUser": true, "exportsUser": true, "userList": true, "updateUserPass": true, "userRoleList": true, "userInformation": true, "getPageTableAttr": true, "editPageTableAttr": true, "queryAuditApproval": true, "isPermissWhenAddRoles": true, "userInfo": true, "userLogout": true, "detailReply": true, "addOrganization": true, "queryOrganization": true, "updateOrganization": true, "deleteOrganization": true, "enableOrganization": true, "addUserOrganization": true, "removeUserOrganization": true, "orgaInformation": true, "importsOrga": true, "exportsOrga": true, "orgaJoinRoles": true, "setLeader": true, "addRoles": true, "listRoles": true, "queryRole": true, "updateRole": true, "deleteRole": true, "addUserRoles": true, "removeUserRoles": true, "updateRolePermissions": true, "getRoleByName": true, "testConnect": true, "updateConnect": true, "jurisdiction": true, "setLoginPwdPolicy": true, "getLoginPwdPolicy": true, "approReply": true, "deleteReply": true, "getEditionVersion": true, "copyProject": true, "addProjects": true, "updateProjects": true, "listProjects": true, "queryProject": true, "deleteProject": true, "queryProjectsRole": true, "lockProjects": true, "unLockProjects": true, "addUsersInRole": true, "removeUsersInRole": true, "removeProjectSignUsers": true, "addProjectSignUsers": true, "addProRoles": true, "queryProRole": true, "updateProRole": true, "deleteProRole": true, "addProUserRoles": true, "removeProUserRoles": true, "updateProRolePermissions": true, "getResults": true, "getResultsInfo": true, "getCloumnName": true, "getAuthorInfo": true, "fuzzyQuery": true, "listProjectByLevel": true, "queryMethodProject": true, "listMethodProject": true, "listProAuditLog": true, "SingleAudit": true, "listChannel": true, "standardChannel": true, "detailChannel": true, "manualIntegration": true, "deleteChannel": true, "LockChannel": true, "updateChannelFuntion": true, "pickupChannel": true, "browseChannel": true, "browseSpectrum": true, "compareChannel": true, "exportChannel": true, "getResultData": true, "standardCurve": true, "Matching": true, "CalCurve": true, "CalResult": true, "CalResultCL": true, "listCalcur": true, "queryCalcur": true, "deleteCalcur": true, "detailCalcur": true, "Process": true, "keepIntRes": true, "detailInjArr": true, "exportMethod": true, "exportResult": true, "exportCalcur": true, "queryAudit": true, "queryHandleAudit": true, "selectHandleAudit": true, "updateAuditApproval": true, "handleAudit": true, "AutoScan": true, "AutoDetect": true, "updateInstrument": true, "Controller": true, "GetStatus": true, "SendMethod": true, "SingleRun": true, "GetData": true, "SingleStopRun": true, "CloseInstruments": true, "DisconnectSystem": true, "ControllerInfo": true, "addUsersInEquipRole": true, "removeUsersInEquipRole": true, "selectOnlineDevice": true, "selectOfflineDevice": true, "deleteInstrument": true, "addUsersInDevice": true, "ListAllUserInstruments": true, "getAllUserAndInstruments": true, "removeUsersInDevice": true, "selectModules": true, "detailInstrument": true, "addInstrument": true, "detailDevic": true, "listDevice": true, "listInstruByIpAndUserId": true, "listInstrument": true, "deleteDevice": true, "updateDevice": true, "removeAuthor": true, "datailInstrumentsArr": true, "instrumentAnalysis": true, "addAuthor": true, "detailWorkStation": true, "listAllInstru": true, "enableWorkStation": true, "onlineInstru": true, "addWorkstation": true, "listWorkStations": true, "queryWorkStation": true, "deleteWorkStation": true, "updateWorkStation": true, "addMethod": true, "deleteMethod": true, "updateMethod": true, "queryMethod": true, "listMethod": true, "historyMethod": true, "checkOut": true, "checkIn": true, "setCheckoutStatus": true, "listClassicMethod": true, "editClassicMethod": true, "detailClassicMethod": true, "detUserClaMetDel": true, "methodState": true, "copyMethod": true, "detailMethodArr": true, "detailCalcurArr": true, "queryInjectChannel": true, "queryInject": true, "getPeakColumn": true, "removeProjectSample": true, "addProjectSample": true, "deleteSample": true, "addSample": true, "updateSample": true, "querySample": true, "addSampleGroup": true, "querySampleGroupDetail": true, "historySampleGroupMethod": true, "uploadSampleGroup": true, "deleteSampleGroupmethod": true, "CLdeleteSmg": true, "saveAsSampleGroup": true, "listSampleGroupMethodCL": true, "updateSampleGroup": true, "listSampleGroupMethod": true, "lockSampleGroupMethod": true, "queryResultSampleGroup": true, "listsSample": true, "getGroupSamples": true, "getProjectsGroups": true, "detailSmgArr": true, "listStandardMethod": true, "deleteClaStandardMet": true, "employStandMethod": true, "isLockClaStandardMet": true, "StandardMethodDatail": true, "addClassicProject": true, "lockClassicMethod": true, "unLockClassicMethod": true, "addClassicRoles": true, "addUsersClassicInRole": true, "removeUsersClassicInRole": true, "userClassicMethodList": true, "copyClassicMethod": true, "ListClassicPro": true, "ClassicProDetail": true, "deleteClassicPro": true, "toggleState": true, "addUsersByClassicProject": true, "removeUsersByClassicProject": true, "classicProAuthorizeList": true, "userMethodAuthorizeList": true, "detailClaProMethod": true, "classicProRolesList": true, "classicProRolesDetail": true, "classicMetRolesList": true, "classicMetRolesDetail": true, "updateClassicMetRoles": true, "updateClassicProRoles": true, "addSpectrumLibrary": true, "listSpectrumLibrary": true, "deleteSpectrumLibrary": true, "isLockSpectrumLibrary": true, "updateSpectrumLibrary": true, "addSpectrum": true, "listSpectrum": true, "deleteSpectrum": true, "getDADRes": true, "getStandarDetail": true, "akeyBackup": true, "restoreTables": true, "addBackupPath": true, "projectBackup": true, "dataSheetBackup": true, "getBackupPath": true, "backupVison": true, "projectImport": true, "uploadCompanyDiagram": true, "resultState": true, "deleteResult": true, "listResult": true, "detailResult": true, "getTableColumnName": true, "signoff": true, "condFindPeak": true, "searchResult": true, "getCalcurByresId": true, "getTableData": true, "calcurPoint": true, "deleteResultsGroup": true, "queryResultsGroup": true, "detailResultsGroup": true, "isLockResultsGroup": true, "lockInjection": true, "listInjection": true, "deleteInjections": true, "sampleGroupState": true, "listSampleGroups": true, "deleteSampleGroups": true, "addKnowType": true, "deleteKnowType": true, "updateKnowType": true, "listKnowType": true, "datailKnowType": true, "addKnow": true, "addKnowNoaccess": true, "uploadlPathKnow": true, "deleteKnow": true, "updateKnow": true, "deleteKnowUrl": true, "againKnowUrl": true, "listKnowUrl": true, "listAllKnow": true, "detailEnclosure": true, "keywordJump": true, "detailKnowUrl": true, "searchKnowUrl": true, "collectionKnow": true, "cancelCollection": true, "userCancelList": true, "exportCompression": true, "decompression": true, "methodStateLock": true, "methodStateUnLock": true}, "roleName": [{"id": 1, "roleId": 1, "roleName": "\u7cfb\u7edf\u7ba1\u7406\u5458", "userId": "00003", "username": "admin"}], "licence": {"userName": {"param": 8, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u7528\u6237\u6570"}, "acqStation": {"param": 1, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u8bbe\u5907\u6570"}, "instruments": {"param": 5, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u4eea\u5668\u7cfb\u7edf\u6570"}, "suitability": {"param": false, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u7cfb\u7edf\u9002\u7528\u6027"}, "PDA": {"param": false, "SN": "", "grantAt": "", "expireAt": "", "explain": "PDA"}, "selfDiagnosis": {"param": true, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u667a\u80fd\u8bca\u65ad"}, "selfExpert": {"param": true, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u667a\u80fd\u4e13\u5bb6\u8272\u8c31\u7cfb\u7edf"}, "typical": {"param": false, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u5178\u578b\u65b9\u6cd5\u5e93"}, "softwareCheck": {"param": false, "SN": "", "grantAt": "", "expireAt": "", "explain": "\u8f6f\u4ef6\u9a8c\u8bc1"}, "GPC": {"param": true, "SN": "", "grantAt": "", "expireAt": "", "explain": "GPC"}}, "lockTimeInfo": {"value": "{\"defaultPassPolicy\":false,\"lock\":false,\"passErrorNum\":0,\"pwdComplexity\":{\"lowercaseLetters\":true,\"number\":true,\"specialCharacter\":false,\"uppercaseLetters\":true},\"pwdExpireTime\":0,\"pwdLenth\":6,\"pwdTipExpireTime\":0,\"repeatable\":true,\"temporaryLockingTimeLen\":4,\"tokenExpireTime\":0,\"windowsValidate\":false}"}}}
+20220701 13:37:16 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True, True, False] 
+20220701 13:37:16 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 13:37:16 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 13:37:16 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 13:37:16 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True] 
+20220701 13:42:36 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 13:42:36 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_13_42_36
+20220701 13:42:36 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 13:42:36 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:42:36 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:42:36 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 13:42:37 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 13:42:37 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True, True] 
+20220701 13:42:37 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 13:42:37 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 13:42:37 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 13:42:37 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True] 
+20220701 13:42:37 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 13:42:37 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 13:42:44 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_13_42_36.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_13_42_36
+20220701 13:42:44 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 13:42:44 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 13:42:44 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 13:43:11 - MainProcess | MainThread | main.main:14 - INFO -☆☆☆清除多余的结果文件☆☆☆
+20220701 13:43:11 - MainProcess | MainThread | main.main:19 - INFO -当前时间为：2022_07_01_13_43_11
+20220701 13:43:11 - MainProcess | MainThread | main.main:28 - INFO -☆☆☆开始执行测试☆☆☆
+20220701 13:43:12 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:43:12 - MainProcess | MainThread | read_file.__init__:30 - INFO -☆☆☆读取Excel数据☆☆☆
+20220701 13:43:12 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 13:43:12 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果包含！
+20220701 13:43:12 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True, True] 
+20220701 13:43:12 - MainProcess | MainThread | test_roles_common.test_001_tableAttr:37 - INFO -开始测试
+20220701 13:43:12 - MainProcess | MainThread | log_config.info:48 - INFO -判断预期结果相等！
+20220701 13:43:12 - MainProcess | MainThread | log_config.info:48 - INFO -断言返回体相等成功！
+20220701 13:43:12 - MainProcess | MainThread | log_config.info:48 - INFO -flag_list ==> [True] 
+20220701 13:43:12 - MainProcess | MainThread | test_roles_common2.test_002_2:36 - INFO -开始测试
+20220701 13:43:12 - MainProcess | MainThread | test_roles_common2.test_002_2:45 - INFO -测试成功！
+20220701 13:43:13 - MainProcess | MainThread | main.main:32 - INFO -☆☆☆执行结束，生成测试报告☆☆☆
+20220701 13:43:19 - MainProcess | MainThread | main.main:36 - INFO -
+报告路径为: 
+HTML报告 ==> ./outFiles/report/html/2022_07_01_13_43_11.html
+Allure报告 ==> ./outFiles/report/allure/2022_07_01_13_43_11
+20220701 13:43:19 - MainProcess | MainThread | main.main:42 - INFO -☆☆☆写入Excel测试结果☆☆☆
+20220701 13:43:19 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 13:43:19 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
+20220701 13:43:19 - MainProcess | MainThread | read_file.write_excel:123 - INFO -数据写入完成！
