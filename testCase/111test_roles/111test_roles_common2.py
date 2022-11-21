@@ -7,7 +7,7 @@ import sys
 import pytest
 import allure
 
-from testCase.test_roles import con_dict
+# from testCase.test_roles import con_dict
 from utils.log_config import MyLogger
 from utils.read_file import Handle_Excel, Handle_Txt
 from base.baseApi import Base

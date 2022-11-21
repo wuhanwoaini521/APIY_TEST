@@ -181,11 +181,13 @@ class Handle_DB:
         """
         # 需要备份到的路径
         today = datetime.datetime.now().strftime("%Y_%m_%d")
+        now = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
         backup_path = root_path + os.path.sep + "backup" + os.path.sep + today
+        back_file = root_path + os.path.sep + "backup" + os.path.sep + today + os.path.sep + now + "_cims_db.sql"
         if not os.path.exists(backup_path):
             os.mkdir(backup_path)
-        command = "mysqldump -h%s -u%s -p%s %s | gzip > %s/%s.sql.gz" % (
-            self.host, self.username, self.password, self.db, backup_path, self.db)
+        command = "mysqldump -h%s -u%s -p%s %s  > %s" % (
+            self.host, self.username, self.password, self.db, back_file)
         print(command)
         exit_code = subprocess.call(command, shell=True)
         # 判断命令是否正常执行，异常则直接抛出
@@ -194,6 +196,21 @@ class Handle_DB:
 
         print(today)
         print(backup_path)
+
+    def restore_db(self, file, host):
+        """
+        恢复数据库备份
+        :param file:
+        :return:
+        """
+        file = os.path.join(root_path + os.path.sep + "backup" + file)
+        command = "mysql -h%s -u%s -p%s %s  < %s" % (
+            host, self.username, self.password, self.db, file)
+        print(command)
+        exit_code = subprocess.call(command, shell=True)
+        # 判断命令是否正常执行，异常则直接抛出
+        if exit_code != 0:
+            raise Exception('在备份数据库的过程中出错，请检查！')
 # class Handle_DB:
 #
 #     def __init__(self, charset='utf8', port=3306):
